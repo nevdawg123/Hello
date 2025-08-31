@@ -3,6 +3,6 @@
 
 int main (){
 
-printf("Hello, my name is Nevann!\n");
-
+printf("Hello, my name is Nevann!!!!!!!!!!!!!!!!!!\n");
+printf("My majors are Electrical Engineering and Statistics & Data Science.\n");
 }
